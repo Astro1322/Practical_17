@@ -1,0 +1,7 @@
+E:\ПР МДК 01.01\LR_17_2\LR_17_2\bin\Debug\LR_17_2.exe.config
+E:\ПР МДК 01.01\LR_17_2\LR_17_2\bin\Debug\LR_17_2.exe
+E:\ПР МДК 01.01\LR_17_2\LR_17_2\bin\Debug\LR_17_2.pdb
+E:\ПР МДК 01.01\LR_17_2\LR_17_2\obj\Debug\LR_17_2.csproj.AssemblyReference.cache
+E:\ПР МДК 01.01\LR_17_2\LR_17_2\obj\Debug\LR_17_2.csproj.CoreCompileInputs.cache
+E:\ПР МДК 01.01\LR_17_2\LR_17_2\obj\Debug\LR_17_2.exe
+E:\ПР МДК 01.01\LR_17_2\LR_17_2\obj\Debug\LR_17_2.pdb
